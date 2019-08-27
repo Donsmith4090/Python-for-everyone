@@ -2,7 +2,7 @@
 
 ### Goals
 
--   Complete the Python for Everybody Specialization
+-   Complete the Python for Everybody Specialization and master it 
 
 ### Boundaries / Scope
 
